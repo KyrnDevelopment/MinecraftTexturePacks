@@ -1,6 +1,6 @@
 # Color Codes
 
-Here are all the color codes Minecraft currently supports.
+Here is a list of all the color codes that Minecraft currently supports.
 
 | Color       | Chat Code	| MOTD Code	| Decimal	 | Hexadecimal |
 | :---:       | :---:     | :---:     | :---:    | :---:       |
@@ -8,7 +8,7 @@ Here are all the color codes Minecraft currently supports.
 
 # Format Codes
 
-Here are all the format codes Minecraft currently supports.
+Here is a list of all the format codes that Minecraft currently supports.
 
 | Description             | Chat Code | MOTD Code |
 | :---:                   | :---:     | :---:     |
