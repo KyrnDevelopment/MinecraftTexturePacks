@@ -8,7 +8,7 @@ So you've decided you want to make your own texture pack in Minecraft, but where
   * [WinRAR](https://www.win-rar.com/start.html?&L=0)
     * WinRAR is a file archiver application that we will use to extract the texture pack assets from the game's `{version}.jar` directory.
   * [Gimp](https://www.gimp.org/downloads/)
-    * Gimp is a [raster graphics editor](https://en.wikipedia.org/wiki/Raster_graphics_editor) that we will use to alter existing textures as well as create our own.
+    * Gimp is a free [raster graphics editor](https://en.wikipedia.org/wiki/Raster_graphics_editor) that we will use to alter existing textures as well as create our own.
 
 ## Setup
 
