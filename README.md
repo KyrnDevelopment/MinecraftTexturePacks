@@ -21,3 +21,5 @@ Let's begin by gathering the basic components that we'll need to make the pack. 
 ## MCMeta
 
 The file `pack.mcmeta` is another important setup function that we will need to implement into our texture pack.
+
+### Guide Info: Last Updated by [Jack Levreau](https://www.github.com/kyrncion) - 1/13/2021
