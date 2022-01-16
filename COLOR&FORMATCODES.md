@@ -5,6 +5,7 @@ Here is a list of all the color codes that Minecraft currently supports.
 | Color       | Chat Code	| MOTD Code	| Decimal	 | Hexadecimal |
 | :---:       | :---:     | :---:     | :---:    | :---:       |
 | Dark Red    | §4	      | \u00A74	  | 11141120 | AA0000      |
+| Red         | §c	      | \u00A7c	  | 16733525 | FF5555      |
 
 # Format Codes
 
