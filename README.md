@@ -2,7 +2,7 @@
 
 So you've decided you want to make your own texture pack in Minecraft, but where do you begin? It's actually quite simple, and hopefully by the end of this guide, you'll feel confident in creating your own texture packs.
 
-## Requirments 
+## Requirements 
   * [Minecraft Java edition](https://www.minecraft.net/en-us/store/minecraft-java-edition)
     * ( Do not use a cracked version Minecraft. )
   * [WinRAR](https://www.win-rar.com/start.html?&L=0)
